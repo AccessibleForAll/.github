@@ -10,4 +10,4 @@ That's great! We welcome all sorts of contributions from raising issues, startin
 
 ## Want to join the community?
 
-You can join the AccessibleForAllCommunity by raising an [issue here](https://github.com/AccessibleForAll/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
+You can join the AccessibleForAll community by raising an [issue here](https://github.com/AccessibleForAll/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
