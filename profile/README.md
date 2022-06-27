@@ -7,3 +7,7 @@ The official documentation can be difficult for beginners to use and interpret. 
 ## Want to contribute?
 
 That's great! We welcome all sorts of contributions from raising issues, starting discussions, adding documentation, making pull requests and so much more! Check the contributing guidelines in each repository for guidance on how to get started.
+
+## Want to join the community?
+
+You can join the AccessibleForAll community by raising an [issue here](https://github.com/AccessibleForAll/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
