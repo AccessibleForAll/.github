@@ -62,11 +62,6 @@ If you want to report a problem or suggest an enhancement we'd love for you to o
 
 You can also hang out, ask questions and share stories in the Accessible For All Discord (coming soon!).
 
-
-## Want to join the community?
-
-You can join the AccessibleForAll community by raising an [issue here](https://github.com/AccessibleForAll/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
-
 ## Thank you
 
 Thank you so much for visiting the project and we really do hope that you'll join us on this journey to make the web more Accessible For All.
